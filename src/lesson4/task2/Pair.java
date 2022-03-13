@@ -1,8 +1,5 @@
 package lesson4.task2;
 
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
-
 import java.util.Objects;
 
 public class Pair<T1, T2> {
